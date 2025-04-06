@@ -1,0 +1,71 @@
+body {
+    font-family: "Bubbler One", sans-serif;
+    font-style: normal;
+    background-image: url(bg_forest1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    white-space: 20%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.QuienSoy {
+    
+    width: 40%;
+    height: 30%;
+    border-radius: 30px;
+    background: green;
+    box-shadow: rgb(37, 95, 56) 0px 30px 50px -12px inset, rgb(31, 125, 83) 0px 18px 26px -18px inset;
+}
+
+.QuienSoy2 {
+    display: flex;
+    justify-content: center;
+}
+
+.Mencion {
+    font-size: 130%;
+    display: flex;
+    justify-content: center;
+}
+
+.QueHago1 {
+    font-size: 130%;
+    width: 80;
+    height: 50%;
+    border-radius: 30px;
+    background: green;
+    box-shadow: rgb(37, 95, 56) 0px 30px 50px -12px inset, rgb(31, 125, 83) 0px 18px 26px -18px inset;
+    display: flex;
+    justify-content: center;
+}
+
+.MarioKart {
+    height: 30%;
+    font-size: 90%;
+    
+}
+
+
+
+.GaboCara {
+    display: flex;
+    justify-content: center;
+}
+
+.Proyectos {
+    
+    width: 80%;
+    height: 150%;
+    border-radius: 30px;
+    background: green;
+    box-shadow: rgb(37, 95, 56) 0px 30px 50px -12px inset, rgb(31, 125, 83) 0px 18px 26px -18px inset;
+
+}
+
+.ListaProyectos {
+    display: flex;
+    justify-content: left;
+}
