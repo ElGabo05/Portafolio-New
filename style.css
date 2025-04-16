@@ -1,4 +1,5 @@
 body {
+    font-size: 130%;
     font-family: "Bubbler One", sans-serif;
     font-style: normal;
     background-image: url(bg_forest1.png);
@@ -7,14 +8,11 @@ body {
     background-size: 100%;
     background-attachment: fixed;
     white-space: 20%;
-    display: flex;
-    justify-content: space-between;
 }
 
 .QuienSoy {
-    
-    width: 40%;
-    height: 30%;
+    width: 30%;
+    height: 10%;
     border-radius: 30px;
     background: green;
     box-shadow: rgb(37, 95, 56) 0px 30px 50px -12px inset, rgb(31, 125, 83) 0px 18px 26px -18px inset;
@@ -26,46 +24,60 @@ body {
 }
 
 .Mencion {
-    font-size: 130%;
     display: flex;
     justify-content: center;
 }
 
 .QueHago1 {
     font-size: 130%;
-    width: 80;
-    height: 50%;
+    width: 30;
+    height: 30%;
     border-radius: 30px;
     background: green;
     box-shadow: rgb(37, 95, 56) 0px 30px 50px -12px inset, rgb(31, 125, 83) 0px 18px 26px -18px inset;
-    display: flex;
-    justify-content: center;
 }
 
 .MarioKart {
+    display: flex;
+    justify-content: center;
     height: 30%;
     font-size: 90%;
-    
 }
 
+.Tanooki {
+    display: flex;
+    justify-items: center ;
+}
 
+.Gabo {
+    display: flex;
+    justify-content: center;
+}
 
 .GaboCara {
     display: flex;
     justify-content: center;
 }
 
-.Proyectos {
-    
+.Proyectos {   
     width: 80%;
-    height: 150%;
+    height: 50%;
     border-radius: 30px;
     background: green;
     box-shadow: rgb(37, 95, 56) 0px 30px 50px -12px inset, rgb(31, 125, 83) 0px 18px 26px -18px inset;
-
 }
 
-.ListaProyectos {
+.NSMW {
     display: flex;
-    justify-content: left;
+    justify-content: center;
+}
+
+.ListaDeProyectos{
+    display: flex;
+    justify-content: center;
+}
+
+.QueDesarrollo{
+    display: flex;
+    justify-content: center;
 }
