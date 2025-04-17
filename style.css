@@ -29,9 +29,12 @@ body {
 }
 
 .QueHago1 {
+    position: absolute;
+    top: 4%;
+    right: 1%;
     font-size: 130%;
-    width: 30;
-    height: 30%;
+    width: 60%;
+    height: 80%;
     border-radius: 30px;
     background: green;
     box-shadow: rgb(37, 95, 56) 0px 30px 50px -12px inset, rgb(31, 125, 83) 0px 18px 26px -18px inset;
@@ -46,6 +49,9 @@ body {
 
 .Tanooki {
     display: flex;
+    position: absolute;
+    bottom: 5%;
+    left: 20%;
     justify-items: center ;
 }
 
@@ -60,7 +66,7 @@ body {
 }
 
 .Proyectos {   
-    width: 80%;
+    width: 95%;
     height: 50%;
     border-radius: 30px;
     background: green;
@@ -80,4 +86,10 @@ body {
 .QueDesarrollo{
     display: flex;
     justify-content: center;
+}
+
+.TituloQuehago{
+    position: absolute;
+    left: 80%;
+    bottom: 0%;
 }
